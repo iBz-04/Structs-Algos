@@ -38,7 +38,7 @@ cd Structs-Algos
 
 Contributions are welcome!
 
-- If you have a more efficient solution or a different approach, feel free to open a pull request.
+- If you have a more efficient solution or a different & efficient approach, feel free to open a pull request.
 
 - Your solutions don't necessarily have to be in Python, other languages are welcome.
 
