@@ -3,10 +3,11 @@
 This repository contains solutions to various data structures and algorithm questions from Leetcode, solved by me.
 
 
-## Languages
+## Languages used 
 
 - Python
-- Python3
+- Javascript
+- SQL
 
 
 ## Installation
